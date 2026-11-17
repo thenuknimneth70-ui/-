@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
-  "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "name": "THENUK-MD BOT",
+  "description": "Javascript WhatsApp bot made by thenuk nimneth",
+  "logo": "https://github.com/thenuknimneth70-ui/-/blob/5b79cd8c8e3abe12705af880a2838ab2a39fcb5f/Images/file_00000000ee808208a685c2d3d0778841.png",
+  "keywords": ["THENUK-MD BOT"],
   "success_url": "/",
 
   "env": {
